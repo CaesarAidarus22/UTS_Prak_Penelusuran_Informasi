@@ -89,14 +89,15 @@ UTS_Praktikum_PI/
    pip install -r requirements.txt
 
 2. Jalankan program utama:
+    ```bash
     python main.py
 
-3. Pilih menu:
+4. Pilih menu:
     [1] Load & Index Dataset
     [2] Search Query
     [3] Exit
 
-4. Contoh penggunaan:
+5. Contoh penggunaan:
     Pilih menu: 1
     10 dokumen berhasil dimuat dan diproses.
 
